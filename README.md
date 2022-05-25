@@ -1,2 +1,2 @@
 # ShopSallami
-Created a fully responsive e-Commerce website implementing HTML, CSS, &amp; Javascript.
+Built a fully responsive eCommerce website from scratch using HTML, CSS, & JavaScript. In this e-commerce website design I created the Home page of the eCommerce website with a banner section, featured categories images, & some featured products with price, image and ratings. Along with creating an All Products page, Single Product page, Shopping Cart page, as well as the Login and Registration page.
